@@ -13,7 +13,7 @@ VALUES
     5
 ),
 (
-    'Frankin',
+    'Franklin',
     'T',
     'Wong',
     '333445555',
