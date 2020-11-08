@@ -49,7 +49,7 @@ VALUES
     4
 ),
 (
-    'Ramesh'
+    'Ramesh',
     'K',
     'Narayan',
     '666884444',
