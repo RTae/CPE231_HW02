@@ -39,7 +39,7 @@ CREATE TABLE "PROJECT"(
     FOREIGN KEY ("Dnum") REFERENCES "DEPARTMENT"("Dnumber")
 );
 
-CREATE TABLE "WORK_ON"(
+CREATE TABLE "WORKS_ON"(
     "Essn" char(9) NOT NULL,
     "Pno" int NOT NULL,
     "Hours" DECIMAL(3,1) NOT NULL,
